@@ -6,7 +6,7 @@ This is the example project for the dev-recipe [*Integrate React frontend in a J
 
 `mvn clean package` 
  
- Run `boot-react-example-0.0.1-SNAPSHOT.jar` located in target folder
+ Run `react-spring-example-0.0.1-SNAPSHOT.jar` located in target folder
  
 ## Start frontend separately
 
