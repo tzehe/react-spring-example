@@ -11,6 +11,8 @@ This is the example project for the dev-recipe [*Integrate React frontend in a J
 ## Start frontend separately
 
 in src/main/js/frontend run
+
+`npm install`
  
 `npm start`
-This starts the react frontend on localhost:3000
+This starts the react frontend on localhost:3000 with hot-reloading
